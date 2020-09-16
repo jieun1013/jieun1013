@@ -6,7 +6,8 @@
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=leeju1013)](https://solved.ac/leeju1013)
 
-![YouTube Video Likes](https://www.youtube.com/watch?v=694EdvNyby4&ab_channel=%EC%9E%85%EC%A7%A7%EC%9D%80%ED%96%87%EB%8B%98)
+
+
 <!--
 **jieun1013/jieun1013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
