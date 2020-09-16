@@ -4,7 +4,7 @@
 
 ![jieun1013's github stats](https://github-readme-stats.vercel.app/api?username=jieun1013&show_icons=true)
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=jieun1013)](https://solved.ac/jieun1013)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=leeju1013)](https://solved.ac/leeju1013)
 <!--
 **jieun1013/jieun1013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
