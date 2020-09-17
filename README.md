@@ -8,9 +8,7 @@
 
 ![YouTube Video Views](https://img.shields.io/youtube/views/694EdvNyby4?style=social)
 
-<a href="https://github.com/sindresorhus/awesome">
-    <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" />
-  </a>
+
   <a href="https://saythanks.io/to/Solido" target="_blank">
     <img alt="Thanks" src="https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg" />
 
