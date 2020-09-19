@@ -9,7 +9,8 @@
 ![jieun1013's github stats](https://github-readme-stats.vercel.app/api?username=jieun1013&show_icons=true)
 
 
-
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=leeju1013)](https://solved.ac/leeju1013)
 
 
 ![YouTube Video Views](https://img.shields.io/youtube/views/694EdvNyby4?style=social)
